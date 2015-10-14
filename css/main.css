@@ -1,6 +1,6 @@
 /* combo*/
 
-@media screen and (max-width: 715px) (min-width: 960px{
+@media screen and (max-width: 715px) and (min-width: 960px{
     body {
         background-color:red;
     }
