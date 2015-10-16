@@ -1,22 +1,4 @@
 
-/*mobile-first*/
-
-@media screen and (min-width: 675px) {
-    body {
-        background-color: purple;
-    }
-}
-@media screen and (min-width: 999px) {
-    body {
-        background-color: blue;
-    }
-}
-@media screen and (min-width: 1280px) {
-    body {
-        background-color: purple;
-    }
-}
-
 /*desktop-first*/
 
 @media screen and (max-width: 1080px) {
